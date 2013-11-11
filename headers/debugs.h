@@ -1,0 +1,9 @@
+#ifndef LIBUTILS_DEBUGS_ID
+#define LIBUTILS_DEBUGS_ID
+
+
+/* PROTOTYPES START */
+/* PROTOTYPES END */
+
+#endif
+
