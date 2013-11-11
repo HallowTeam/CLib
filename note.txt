@@ -1,7 +1,0 @@
-toujours verif tous les mallocs
-arrays
-strings
-numbers
-http
-
-reecrire toutes les fontions de base (gerer les NULL ?)
